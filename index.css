@@ -1,0 +1,9 @@
+body {
+    font-family: 'Comic Sans MS', 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1, h3 {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
